@@ -1,5 +1,5 @@
 # dotfiles
-My dotfiles for programs I use
+My dotfiles for programs I use.
 
 SSH:
 
