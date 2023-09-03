@@ -2,6 +2,7 @@
 My dotfiles for programs I use.
 
 Each dotfile has easy installation.
+
 Run the install script inside of whatever dotfile you want, and it will do all the work.
 
 Versions tested:
