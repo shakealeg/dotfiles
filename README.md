@@ -10,7 +10,7 @@ and it will do all the work.
 
 ```
 Everything here was made while on Debian,
-review the scripts before installing as software changes all the time.
+review the files before installing as software changes all the time.
 ```
 
 Versions tested:
